@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title></title>
+  <title>LJC&#39;s blog</title>
   
   
   <link href="https://lijiacian.github.io/hello00world.github.io/atom.xml" rel="self"/>
   
   <link href="https://lijiacian.github.io/hello00world.github.io/"/>
-  <updated>2022-03-11T06:50:43.871Z</updated>
+  <updated>2022-03-11T08:09:29.934Z</updated>
   <id>https://lijiacian.github.io/hello00world.github.io/</id>
   
   <author>
@@ -17,18 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我的第一篇部落格文章</title>
+    <title>My first blog post</title>
     <link href="https://lijiacian.github.io/hello00world.github.io/2022/03/11/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E9%83%A8%E8%90%BD%E6%A0%BC%E6%96%87%E7%AB%A0/"/>
     <id>https://lijiacian.github.io/hello00world.github.io/2022/03/11/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E9%83%A8%E8%90%BD%E6%A0%BC%E6%96%87%E7%AB%A0/</id>
     <published>2022-03-11T03:00:17.000Z</published>
-    <updated>2022-03-11T06:50:43.871Z</updated>
+    <updated>2022-03-11T08:09:29.934Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://ithelp.ithome.com.tw/users/20119486/ironman/2944?page=1">https://ithelp.ithome.com.tw/users/20119486/ironman/2944?page=1</a></p>]]></content>
+    <content type="html"><![CDATA[<p>終於創好部落格了！</p><p>附上我覺得寫的非常詳細的創部落格流程：<br><a href="https://ithelp.ithome.com.tw/users/20119486/ironman/2944?page=1">https://ithelp.ithome.com.tw/users/20119486/ironman/2944?page=1</a><br>（大概花幾小時跟著前面十幾篇文章操作之後就有個雛形了）</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://ithelp.ithome.com.tw/users/20119486/ironman/2944?page=1&quot;&gt;https://ithelp.ithome.com.tw/users/20119486/ironman/2944?page=1</summary>
+    <summary type="html">&lt;p&gt;終於創好部落格了！&lt;/p&gt;
+&lt;p&gt;附上我覺得寫的非常詳細的創部落格流程：&lt;br&gt;&lt;a href=&quot;https://ithelp.ithome.com.tw/users/20119486/ironman/2944?page=1&quot;&gt;https://ithelp.ithome.c</summary>
       
     
     
